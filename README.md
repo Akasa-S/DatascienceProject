@@ -1,5 +1,5 @@
 # Data Analysis Project
-These are some of the projects I went through in the data science skill path using Python and SQL. Feel free to check! 
+These are some of the projects I went through in the data science skill path using Python. Feel free to check! 
 Below are the details:
 
 # 1: Analyze Electric Vehicle Stations
